@@ -80,4 +80,3 @@ fabric.properties
 
 # Keep a global dictionary in repository.
 !.idea/**/dictionaries/global.xml
-.DS_Store
